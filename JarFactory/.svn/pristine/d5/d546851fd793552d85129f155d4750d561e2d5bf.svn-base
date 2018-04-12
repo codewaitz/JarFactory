@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.andmore.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.andmore.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/android-async-http-1.4.8.jar"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="libs/eventbus-3.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/lite-orm-1.5.4.jar"/>
+	<classpathentry kind="lib" path="libs/org.apache.http.legacy.jar"/>
+	<classpathentry kind="lib" path="libs/xUtils-2.6.14.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
